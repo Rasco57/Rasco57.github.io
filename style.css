@@ -1,0 +1,10 @@
+#id {
+    color:black; 
+    text-decoration: none;
+    font-family: ClassicCursive;
+    font-size: 24px;
+}
+@font-face{
+    font-family: ClassicCursive;
+    src: url(CedarvilleCursive-Regular.ttf)
+}
